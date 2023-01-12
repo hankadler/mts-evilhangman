@@ -1,0 +1,25 @@
+{
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "extends": [
+    "airbnb-base"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "rules":{
+    "no-console": "off",
+    "comma-dangle": "off",
+    "no-underscore-dangle": "off",
+    "quotes": ["error", "double"],
+    "func-names": "off",
+    "function-paren-newline": "off",
+    "object-curly-newline": "off",
+    "no-nested-ternary": "off",
+    "import/prefer-default-export": "off",
+    "import/extensions": "off",
+    "import/no-unresolved":"off",
+    "no-undef": "off",
+    "no-await-in-loop": "off"
+  }
+}
