@@ -1,6 +1,6 @@
 # ts-evilhangman
 
-Solution to a job interview problem.
+Solution to evil-hangman problem.
 
 ## Setup
 
